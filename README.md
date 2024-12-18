@@ -1,8 +1,8 @@
-# LETS_DEEP_DIVE_IN_GEN_AI
+  # LETS_DEEP_DIVE_IN_GEN_AI
 new course
 00:25 🎓 Introduction to Generative AI Community Session
 02:14  📚 Dashboard Walkthrough and Enrollment Process 
-04:19  📋 Curriculum Overview and Instructor Introduction
+04:19  📋 Curriculum Overview and Instructor Introduction  
 07:42  📊 Detailed Curriculum Breakdown
 16:49  🧠 Preparing for Generative AI and LLM Introduction
 23:26  🧠 Basics of Deep Learning
